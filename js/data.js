@@ -149,7 +149,7 @@ export const PRODUCTS = [
     {
         id: 18,
         title: "Suv",
-        img: "Suv",
+        img: "suv",
         price: 300,
         sale: true,
         salePercent: 13,
